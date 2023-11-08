@@ -4,6 +4,7 @@
 ### Студенты: 
 
 Подоляка Е.О.
+Ссылка на генератор https://colab.research.google.com/drive/1ONqjR9alQ-4j2pf7hJpgj3FUgeAKfMpm?usp=sharing
 ## Функции tools.py
 
 ### set_seed
