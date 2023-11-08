@@ -1,6 +1,7 @@
 # ai_lab_2
 # Лабораторная работа "Свёрточные нейронные сети"
 Подоляка Е.О.
+ссылка на генератор https://colab.research.google.com/drive/1ONqjR9alQ-4j2pf7hJpgj3FUgeAKfMpm?usp=sharing
 ## Задание
 
 1. Решить задачу классификации пород кошек и собак на основе датасета [Pet Faces][PetFaces]. 
